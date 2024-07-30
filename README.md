@@ -11,6 +11,7 @@
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=jpmbrito123&bg_color=000000&color=15e5a6&line=07e9a5&point=0a855c&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 
+:mailbox: How to reach me:
 
 <div align="center">  
 <a href="https://www.linkedin.com/in/jo%C3%A3o-brito-123r1234/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white"</a>
